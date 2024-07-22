@@ -7,6 +7,6 @@ I'm still fairly new to this type of thing, and errors are expected. I appreciat
 ## Who helped make this?
 
 Credits to:
-- Milkshake for the baseline (it's largely a customized version of [this](https://github.com/FloatingMilkshake/floatingmilkshake.com))
-- Erisa for advices on DNS stuff and the decision to use Cloudflare Pages for easier HTTPS setup
-- Coburnius and Stratos for CSS designs
+- [Milkshake](https://github.com/FloatingMilkshake) for the baseline (it's largely a customized version of [this](https://github.com/FloatingMilkshake/floatingmilkshake.com))
+- [Erisa](https://github.com/Erisa) for advices on DNS stuff and the decision to use Cloudflare Pages for easier HTTPS setup
+- Coburnius and [Stratos](https://github.com/sthivaios) for CSS designs
