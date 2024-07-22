@@ -1,4 +1,4 @@
-# aervnu.moe (Configuring.)
+# aervnu.moe
 
 Yes, my site.
 
