@@ -1,15 +1,14 @@
 body {
     color: white;
-    background-image: url("/bg.jpg");
+    background-image: url("./bg.jpg");
     background-size: cover;
     background-repeat: no-repeat;
-    background-position: fixed;
-    max-width: 650px;
-    padding: 0px 10px 75px;
+    background-position: center;
+    max-width: 60%;
+    padding: 0px 10px 20px;
     margin: 40px auto;
     font-family: "Manrope";
     font-weight: 300;
-    height: 100dvh; height: 100vh
 }
 
 center {
@@ -58,4 +57,24 @@ li::before {
 
 .small {
     font-size: 12px;
+}
+
+@media screen and (max-width: 700px){
+        body{max-width: 660px;}
+}
+
+@media screen and (max-width: 600px){
+        body{max-width: 560px;}
+}
+
+@media screen and (max-width: 500px){
+        body{max-width: 460px;}
+}
+
+@media screen and (max-width: 400px){
+        body{max-width: 360px;}
+}
+
+@media screen and (max-width: 399px){
+        body{max-width: 90%;}
 }
