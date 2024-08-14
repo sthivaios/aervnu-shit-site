@@ -1,8 +1,5 @@
 body {
-    color: white;
-    background-image: url("/bg.jpg");
-    background-size: cover;
-    background-repeat: no-repeat;
+    color: #212121;
     max-width: 650px;
     padding: 0px 10px 75px;
     margin: 40px auto;
