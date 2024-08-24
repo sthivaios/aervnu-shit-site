@@ -1,6 +1,6 @@
 # aervnu.moe
 
-Yes, my website. Please open a pull request if you have any suggestions for it. 
+Yes, my website. Please open a PR if you have any suggestions for it. 
 
 I'm still fairly new to this type of thing, and errors are expected. I appreciate constructive feedback and contribution.
 
