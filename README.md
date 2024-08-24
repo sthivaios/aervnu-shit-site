@@ -2,7 +2,7 @@
 
 Yes, my website. Please open a PR if you have any suggestions for it. 
 
-I'm still fairly new to this type of thing, and errors are expected. I appreciate constructive feedback and contribution.
+I'm still fairly new to this type of thing, and messy things are expected. I appreciate constructive feedback and contribution.
 
 ## Who helped make this?
 
