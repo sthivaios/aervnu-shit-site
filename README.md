@@ -1,4 +1,4 @@
-# aervnu.moe (Optimizing CSS)
+# aervnu.moe (Optimizing CSS, might be broken for a while)
 
 Yes, my website. Please open a PR if you have any suggestions for it.
 
