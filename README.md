@@ -1,4 +1,4 @@
-# aervnu.moe
+# aervnu.moe (Broken)
 
 Yes, my website. Please open a PR if you have any suggestions for it.
 
