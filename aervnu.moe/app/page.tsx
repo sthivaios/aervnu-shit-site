@@ -73,7 +73,7 @@ export default function Home() {
       <hr />
       <br />
       <p>
-        <a className="containerOuter" href="./index.html" title="Current page">Root</a> |
+        <a className="aSelected" href="./index.html" title="Current page">Root</a> |
         <a
           href="https://github.com/aervnu/aervnu.moe"
           title="Source code of this site"
