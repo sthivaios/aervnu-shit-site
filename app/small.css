@@ -637,10 +637,10 @@ video {
 
 body {
   color: white;
-  background-image: url("./bg.jpg");
+  background-image: url("https://cdniym.aervnu.moe/bg.jpg");
   background-size: cover;
   background-repeat: no-repeat;
-  background-position: fixed;
+  background-position: center ;
   max-width: 650px;
   padding: 0px 10px 75px;
   margin: 40px auto;
