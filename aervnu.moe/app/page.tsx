@@ -1,5 +1,3 @@
-import Image from "next/image";
-
 export default function Home() {
   return (
 <main>
@@ -10,7 +8,7 @@ export default function Home() {
         It's me, Andy Nguyen. I live in Vietnam, last I checked I was 17. I make
         things that either break or are not of much use. I run a home server
         funnily named Milan (see
-        <a href="./devices.html" title="My devices">Devices</a>), an Oracle VPS
+        <a href="/devices" title="My devices"> Devices</a>), an Oracle VPS
         coordinating my tailnet, and this very website you're viewing.
       </p>
       <br />
@@ -24,9 +22,7 @@ export default function Home() {
         x86 asm before but...you know what I mean. Not my priority either, since
         it has limited practicality in production environments.
         <br /><br />
-        Photography. Insta is
-        <a href="https://www.instagram.com/aervnu.0/">aervnu.0</a>, go check
-        things out there.
+        Photography. Insta is <a href="https://www.instagram.com/aervnu.0/">aervnu.0</a>, go check things out there.
       </p>
       <br />
       <h1><strong>Things I wanna learn more in the future</strong></h1>
@@ -49,56 +45,25 @@ export default function Home() {
       <br />
       <h1><strong>Where to contact me</strong></h1>
       <ul>
-        <li>
-          Discord:
-          <a href="https://discordapp.com/users/717255311060238387">@aervnu</a>;
-          I also talk in the
-          <a href="discord.gg/microsoft">Microsoft Community server</a> a lot,
-          be sure to check it out.
-        </li>
-        <li>
-          Signal:
-          <a
-            href="https://signal.me/#eu/GzuQlUo5hWHjbngK7sIXAjiHMRavHLgoLA-K11mlXCSzI7DSszlI1ZbGpi8_suMp"
-          >
-            @aervnu.43
-          </a>
-        </li>
+        <li>Discord: <a href="https://discordapp.com/users/717255311060238387">@aervnu</a>; I also talk in the <a href="discord.gg/microsoft">Microsoft Community server</a> a lot, be sure to check it out.</li>
+        <li>Signal: <a href="https://signal.me/#eu/GzuQlUo5hWHjbngK7sIXAjiHMRavHLgoLA-K11mlXCSzI7DSszlI1ZbGpi8_suMp">@aervnu.43</a></li>
         <li>Twitter: <a href="https://x.com/aervnu">@aervnu</a></li>
-        <li>
-          Work email: <a href="mailto:andy@aervnu.moe">andy@aervnu.moe</a>
+        <li>Work email: <a href="mailto:andy@aervnu.moe">andy@aervnu.moe</a>
         </li>
       </ul>
       <br />
       <hr />
       <br />
       <p>
-        <a className="aSelected" href="./index.html" title="Current page">Root</a> |
-        <a
-          href="https://github.com/aervnu/aervnu.moe"
-          title="Source code of this site"
-          >Source</a
-        >
-        | <a href="./time.html" title="Real time system clock"> Clock </a> |
-        <a href="./devices.html" title="My devices">Devices</a> |
-        <a href="https://hastebin.aervnu.moe" title="All you can paste">
-          Starbin
-        </a>
-        |
-        <span title="Coming soon.">Stay tuned.</span>
+        <a className="aSelected" href="/" title="Current page">Root</a> | 
+        <a href="https://github.com/aervnu/aervnu.moe" title="Source code of this site"> Source</a> | 
+        <a href="/clock" title="Real time system clock"> Clock </a> | 
+        <a href="/devices" title="My devices"> Devices</a> | 
+        <a href="https://hastebin.aervnu.moe" title="All you can paste"> Starbin </a> | 
+        <span title="Coming soon."> Stay tuned.</span>
         <br /><br />
         Photo by
-        <a
-          href="https://unsplash.com/@iamsantiago?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash"
-        >
-          Santiago Gomez
-        </a>
-        on
-        <a
-          href="https://unsplash.com/photos/snow-capped-mountain-at-night-time-with-moon-WpZmGDzOAi0?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash"
-        >
-          Unsplash
-        </a>
+        <a href="https://unsplash.com/@iamsantiago?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash"> Santiago Gomez</a> on <a href="https://unsplash.com/photos/snow-capped-mountain-at-night-time-with-moon-WpZmGDzOAi0"> Unsplash</a>
       </p>
     </div>
 </main>

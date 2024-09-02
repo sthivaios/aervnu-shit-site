@@ -168,7 +168,7 @@ const page = () => {
       <hr className="my-6 border-gray-300" />
       <br /><br />
       <p className="text-sm">
-        <a href="./index.html" className="text-blue-600 hover:underline" title="Head back home">Root</a>
+        <a href="/" className="text-blue-600 hover:underline" title="Head back home">Root</a>
         |
         <a href="https://github.com/aervnu/aervnu.moe" className="text-blue-600 hover:underline" title="Source code of this site">Source</a>
         |

@@ -1,37 +1,21 @@
 'use client';
 import React from 'react'
-import DateTime from './clock'
+import ISOClock from './clock'
 const page = () => {
   return (
-    <div className="containerOuter">
+    <div className= "containerOuter">
     <h1>Real time system clock</h1>
     <br />
-    <p>
-      It is currently
-      <DateTime></DateTime>
-      for me.
-    </p>
+    <p><ISOClock></ISOClock></p>
     <br />
     <hr />
     <br />
     <p>
-      <a href="./index.html" title="Head back home">Root</a>
-      |
-      <a
-        href="https://github.com/aervnu/aervnu.moe"
-        title="Source code of this site"
-      >
-        Source
-      </a>
-      |
-      <a className="aSelected" href="./time.html" title="Current page">Clock</a>
-      |
-      <a href="./devices.html" title="My devices">Devices</a>
-      |
-      <a href="https://hastebin.aervnu.moe" title="All you can paste">
-        Starbin
-      </a>
-      |
+      <a href="./index.html" title="Head back home">Root</a> |
+      <a href="https://github.com/aervnu/aervnu.moe" title="Source code of this site">Source</a> |
+      <a className="aSelected" href="./time.html" title="Current page">Clock</a> |
+      <a href="./devices.html" title="My devices">Devices</a> |
+      <a href="https://hastebin.aervnu.moe" title="All you can paste">Starbin</a> |
       <span title="Coming soon.">Stay tuned.</span>
       <br />
       <br />
@@ -48,8 +32,8 @@ const page = () => {
         Unsplash
       </a>
     </p>
-  </div>
-  )
+    </div>
+  );
 }
 
 export default page

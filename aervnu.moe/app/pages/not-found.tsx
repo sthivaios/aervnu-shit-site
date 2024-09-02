@@ -1,6 +1,6 @@
-import React from 'react'
+import React from 'react';
 
-const page = () => {
+export default function Custom404() {
   return (
     <div className="containerOuter">
       <h1 className="fira-sans-semibold">Bad Command or File Name</h1>
@@ -10,7 +10,5 @@ const page = () => {
       <br />
       <p className="fira-sans-light"><a href="./index.html" className="aSelected">Head back to root?</a></p>
     </div>
-  )
+  );
 }
-
-export default page
